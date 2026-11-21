@@ -1,0 +1,10 @@
+{
+  "name": "speakeroo",
+  "version": "1.0.0",
+  "description": "Free AI speaking coach: analyse speeches, find filler words, restructure talks, get topics and pronunciation guides.",
+  "mcpServers": {
+    "speakeroo": {
+      "httpUrl": "https://mcp.speakeroo.app/mcp"
+    }
+  }
+}
